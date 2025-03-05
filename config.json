@@ -1,0 +1,29 @@
+{
+    "header": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate",
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+        "Connection": "keep-alive",
+        "Content-Length": "",
+        "Content-Type": "",
+        "Cookie": "",
+        "Host": "",
+        "Origin": "",
+        "Referer": "",
+        "User-Agent": ""
+    },
+    "data": {
+        "userId": "",
+        "password": "",
+        "queryString":"",
+        "passwordEncrypt": "true",
+        "operatorPwd": "",
+        "operatorUserId": "",
+        "validcode": "",
+        "service": ""
+    },
+    "urls": {
+        "post_URL": "",
+        "get_URL": ""
+    }
+}
